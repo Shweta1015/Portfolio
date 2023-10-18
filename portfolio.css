@@ -344,7 +344,7 @@ nav .fa-regular, nav .fa-solid{
         background: #00FFFF;
         position: fixed;
         top: 0;
-        right: -350px;
+        right: -30vh;
         width: 30vh;
         height: 100vh;
         padding-top: 7vh;
